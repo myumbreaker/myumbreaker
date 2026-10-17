@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center"> 
+     <img src="https://hits.sh/github.com/myumbreaker.svg?style=gradient-plastic&label=cleaners&Count=1&color=19151f&labelColor=e6c6ac">
 
-<!--
-**myumbreaker/myumbreaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://file.garden/aD-jsL8SzQvp8mjK/Untitled16_20261016233334.png" width="550">
+ <p align="center">
+<p align="center">
+  
+<p align="center">
+<p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+<p align="center">
+  <a href="https://github.com/lokeean">main.</a>
+</p>
+        </a>
+    </p>
